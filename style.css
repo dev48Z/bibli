@@ -6,3 +6,15 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+
+#entete{
+    background-color: #33DDFF;
+}
+
+#contenu{
+    background-color: #F7DC6F;
+    ;
+}
+
+#pied{
+    background-color: #3371FF;
