@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(134, 58, 58);
+}
+#principal{
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
